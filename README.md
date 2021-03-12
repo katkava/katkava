@@ -3,7 +3,8 @@
 <h3 align="center">With a background in art history and museum studies, I work as a software engineer to help bring online art experiences to life. Committed to merging both my creative flairs with my proficiency in technologies such as HTML, CSS, JavaScript, Node.js, MongoDB, and React to bring innovative solutions for developing sleek and modern software.</h3>
 
 
-## My Skill Set  
+## My Skill Set 
+<div width="100%"> 
 <table><tr><td valign="top" width="33%">
  
 ### Frontend  
@@ -31,6 +32,7 @@
 </td>
  
  </tr></table> 
+ </div>
 
 <br/>
 
