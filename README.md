@@ -1,4 +1,4 @@
-<a href="https://flic.kr/p/2m5PSTi><img src="https://flic.kr/p/2m5PSTi" title="Kat's personal banner" /></a>
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/193127869@N02/51250435327/in/dateposted-public/" title="Kat kavaliova"><img src="https://live.staticflickr.com/65535/51250435327_37771da26b_h.jpg" width="1584" height="396" alt="Kat kavaliova"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <h1 align="center">Hi 👋, I'm Kat</h1>
 <h3 align="center">With a background in art history and museum studies, I work as a software engineer to help bring online art experiences to life. Committed to merging both my creative flairs with my proficiency in technologies such as HTML, CSS, JavaScript, Node.js, MongoDB, and React to bring innovative solutions for developing sleek and modern software.</h3>
 
