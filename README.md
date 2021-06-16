@@ -1,4 +1,4 @@
-<a href="https://imgur.com/iUl4y9W"><img src="https://flic.kr/p/2m5PSTi" title="source: imgur.com" /></a>
+<a href="https://flic.kr/p/2m5PSTi><img src="https://flic.kr/p/2m5PSTi" title="Kat's personal banner" /></a>
 <h1 align="center">Hi 👋, I'm Kat</h1>
 <h3 align="center">With a background in art history and museum studies, I work as a software engineer to help bring online art experiences to life. Committed to merging both my creative flairs with my proficiency in technologies such as HTML, CSS, JavaScript, Node.js, MongoDB, and React to bring innovative solutions for developing sleek and modern software.</h3>
 
