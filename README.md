@@ -7,7 +7,7 @@
 <div width="100%"> 
 <!-- <table><tr><td valign="top" width="50%"> -->
  
-<h3 align="center"> Frontend </h3> 
+<h2 align="center"> Frontend </h2> 
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />   
@@ -18,7 +18,7 @@
 </div>
 <!-- </td><td valign="top" width="50%"> -->
  
- <h3 align="center"> Backend </h3>
+ <h2 align="center"> Backend </h2>
  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
