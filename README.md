@@ -32,8 +32,7 @@
 
 <br/>
 
-## 🔭 I’m currently working on ...
-
+## Recent projects 🔭
 ![ Video of site](https://media.giphy.com/media/mGakGdasKfJp3IDiGR/giphy.gif)
 
 ## Connect with me  
