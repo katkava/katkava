@@ -5,7 +5,7 @@
 
 ## My Skill Set 
 <div width="100%"> 
-<table><tr><td valign="top" width="50%">
+<!-- <table><tr><td valign="top" width="50%"> -->
  
 ### Frontend  
  
