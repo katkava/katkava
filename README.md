@@ -34,6 +34,7 @@
 
 ## Recent projects 🔭
 ![ Video of site](https://media.giphy.com/media/mGakGdasKfJp3IDiGR/giphy.gif)
+<a href="https://github.com/katkava/movie-app">View Project</href>
 
 ## Connect with me  
 
